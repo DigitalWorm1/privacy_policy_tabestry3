@@ -1,8 +1,8 @@
-📄 Privacy Policy – Holy Bible Offline App, a digital ministry developed by Devotion Inc.
+📄 Privacy Policy – Holy Bible Offline - KJV Study, a digital ministry developed by Devotion Inc.
 
 ## Introduction
 
-Thank you for using our Bible App ("Holy Bible Offline App"). Your privacy is very important to us. This Privacy Policy explains how we handle information when you use the App.
+Thank you for using our Bible App ("Holy Bible Offline - KJV Study"). Your privacy is very important to us. This Privacy Policy explains how we handle information when you use the App.
 
 ## Data Collection
 
@@ -30,3 +30,4 @@ If we make any changes to this Privacy Policy, we will update the date at the to
 
 If you have any questions about this Privacy Policy, please contact us at:
 devovtionglobo@gmail.com
+
